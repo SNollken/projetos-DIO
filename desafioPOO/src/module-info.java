@@ -4,5 +4,5 @@
 /**
  * 
  */
-module desafioPooDIO {
+module desafioPOO {
 }
