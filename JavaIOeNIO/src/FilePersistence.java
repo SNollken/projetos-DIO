@@ -1,4 +1,4 @@
-package javapontoio;
+
 public interface FilePersistence {
 
     String write(final String data);
