@@ -1,2 +1,19 @@
-collections-java-api/.vscode/
-collections-java-api/bin/
+# Compiled class files
+bin/
+*.class
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
